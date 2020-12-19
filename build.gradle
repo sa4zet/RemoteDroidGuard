@@ -10,11 +10,11 @@ buildscript {
 
     ext.androidBuildGradleVersion = '3.6.3'
 
-    ext.androidBuildVersionTools = '29.0.3'
+    ext.androidBuildVersionTools = '23.0.2'
 
     ext.androidMinSdk = 9
-    ext.androidTargetSdk = 29
-    ext.androidCompileSdk = 29
+    ext.androidTargetSdk = 23
+    ext.androidCompileSdk = 23
 
     repositories {
         jcenter()
